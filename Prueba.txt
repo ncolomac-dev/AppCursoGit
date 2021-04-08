@@ -23,14 +23,7 @@ quiero ver el proyecto del colegio
 Estamos cosas de git rebase el cual me permite como mala practica
 realziar un copy page de una rama en la main es masoma la cosas
 
-
-
-
-
-
-
-
-
 main 1
 
 main2
+Estuvimos viendo como se cambia el usuario y contraseña
