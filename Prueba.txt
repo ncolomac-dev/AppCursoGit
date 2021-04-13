@@ -11,3 +11,5 @@ la fecha es 2025
 Estuvimos viendo como se cambia el usuario y contraseña
 
 Estuvimos viendo el estado de las ramas  y que eran las ramas y su funcionamiento
+
+A cambiar de rama y unirla 
