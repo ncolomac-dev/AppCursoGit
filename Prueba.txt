@@ -12,4 +12,6 @@ Estuvimos viendo como se cambia el usuario y contraseña
 
 Estuvimos viendo las ramas  y que eran las ramas y su funcionamiento
 
-A cambiar de rama y unirla 
+A cambiar de rama y unirla.
+
+Estamos agregando el ssh y aplicandolo dentro de lo que necesitamos depues de activarlo y jugar con github
