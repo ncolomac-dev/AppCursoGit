@@ -20,8 +20,15 @@ estamos en otra rama, quiero que avanzemos pero paso a paso :)
 
 quiero ver el proyecto del colegio 
 
-Estamos viendo cosas de git rebase el cual me permite como mala practica
+Estamos cosas de git rebase el cual me permite como mala practica
 realziar un copy page de una rama en la main es masoma la cosas
+
+
+
+
+
+
+
 
 
 main 1
